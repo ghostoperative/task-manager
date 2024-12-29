@@ -2,6 +2,9 @@
 
 This is a simple Task Manager application built with HTML, CSS, and JavaScript. It allows users to add, edit, delete, and filter tasks based on their completion status and priority.
 
+![image](https://github.com/user-attachments/assets/4f1ba81e-091b-49aa-add0-7d88109b2481)
+
+
 ## Features
 
 - Add new tasks with a priority level (Low, Medium, High)
